@@ -1,0 +1,15 @@
+de.uniba.kinf.jerusalem
+de.uniba.kinf.jerusalem.gui.controller
+de.uniba.kinf.jerusalem.gui.helper
+de.uniba.kinf.jerusalem.gui.helper.subclasses
+de.uniba.kinf.jerusalem.gui.model
+de.uniba.kinf.jerusalem.gui.model.helper
+de.uniba.kinf.jerusalem.gui.model.subclasses
+de.uniba.kinf.jerusalem.gui.view
+de.uniba.kinf.jerusalem.gui.view.helper
+de.uniba.kinf.jerusalem.gui.view.map
+de.uniba.kinf.jerusalem.gui.view.tablepanels
+de.uniba.kinf.jerusalem.gui.view.workpanels
+de.uniba.kinf.jerusalem.gui.view.workpanels.helper
+de.uniba.kinf.jerusalem.gui.view.workpanels.helper.subclasses
+de.uniba.kinf.jerusalem.gui.view.workpanels.subclasses

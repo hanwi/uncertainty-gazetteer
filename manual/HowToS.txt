@@ -1,0 +1,17 @@
+
+
+######################################################################################################
+->->export as JAR file 
+1. set de.uniba.kinf.jerusalem.Main.DEBUG to false
+2. replace content of config.properties with content of Props_bare.txt
+3. export into runnable jar file JerusalemDB.jar (eclipse: launch configuration: no arguments; library handling: package requred libraries into generated JAR)
+
+
+######################################################################################################
+->->switch language
+open properties file (JerusalemData/JerusalemResources/properties in texteditor
+1. set key language_acronym
+2. set key country_acronym
+
+currently supported language_acronym/country_acronym: de/DE; en/US
+
