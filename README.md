@@ -7,8 +7,8 @@ The project "Erinnerungslandschaften Jerusalem" collects historical writings fro
 
 For further information regarding the project and the software please contact
 
-	Dr. Klaus Stein
-	Chair of Computing in the Cultural Sciences
-	University of Bamberg, Germany
-	<http://www.uni-bamberg.de/en/kinf/staff/dr-klaus-stein/>
+Dr. Klaus Stein  
+Chair of Computing in the Cultural Sciences  
+University of Bamberg, Germany  
+<http://www.uni-bamberg.de/en/kinf/staff/dr-klaus-stein/>
 
